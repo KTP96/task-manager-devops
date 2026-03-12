@@ -1,11 +1,4 @@
-# Task Manager App → DevOps Master Roadmap
-
-## Goal
-Use your **working basic task manager application** as the single project through which you learn DevOps from **Git → Linux → Packaging → CI/CD → Docker → Cloud → Infrastructure as Code → Kubernetes → Monitoring → Security**.
-
-This roadmap is written for a **beginner** but aims to make you **job-ready and interview-ready**.
-
----
+# Task Manager App → DevOps Roadmap
 
 # 0. What DevOps actually means
 
@@ -38,7 +31,7 @@ DevOps teaches you to:
 
 # 1. The full picture: where your task manager app fits
 
-Your task manager app will evolve through these stages:
+Task manager app will evolve through these stages:
 
 ## Stage 1 — Local development
 You write code and run it locally.
